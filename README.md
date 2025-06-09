@@ -157,6 +157,19 @@ La propuesta de paleta toma como base los colores institucionales asociados al c
 ![Paleta](./PaletaColor.png)
 
 
+## Propuesta de Valor
+Valencia es una ciudad con un gran potencial para el turismo ligado al cine, ya que ha sido escenario de producciones como Tomorrowland, La Casa de Papel o Westworld. Sin embargo, la actual web de Valencia Film Office no explota esta dimensión emocional y cultural que puede atraer a turistas nacionales e internacionales.
+
+Se propone una extensión digital —ya sea integrada en la web o como app independiente— que permita explorar rutas, películas y localizaciones, con un enfoque interactivo y accesible para el público general.
+
+### ScopeCanvas
+![ScopeCanvas](./ScopeCanvas.PNG)
+
+
+
+
+
+
 
 
 
