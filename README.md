@@ -130,3 +130,34 @@ La nueva estructura se organiza diferenciando claramente dos perfiles de usuario
 ### Wireframe 2 – Página de Ruta Cinematográfica
 ![PaginaRuta](./PaginaRuta.PNG)
 
+## Guidelines de diseño
+
+### Tipografía
+Se utiliza la familia tipográfica Noto Sans, desarrollada por Google, por su alta legibilidad, soporte multilingüe y compatibilidad web.
+
+La fuente será utilizada de la siguiente manera:
+
+- Título1: 35pt Bold.
+- Título2: 25pt SemiBold.
+- Texto normal: 15pt Regular.
+
+![Tipografia](./Tipografia.PNG)
+
+### Paleta de colores
+La propuesta de paleta toma como base los colores institucionales asociados al cine, al Mediterráneo y al estilo urbano de Valencia. Se han seleccionado colores que aseguren buen contraste y accesibilidad
+
+| Color                   | Uso                                            | Código HEX |
+|-------------------------|------------------------------------------------|------------|
+| 🟠 Naranja principal     | Botones, enlaces, elementos destacados        | `#E86C00`  |
+| 🔵 Azul grisáceo oscuro  | Cabecera, menú, fondo institucional           | `#1E1E2F`  |
+| ⚪ Gris claro suave      | Fondos secundarios, tarjetas                  | `#F2F2F2`  |
+| ⚪ Blanco puro           | Fondo general, texto sobre fondos oscuros     | `#FFFFFF`  |
+| ⚫ Negro suave           | Texto principal sobre fondos claros           | `#1C1C1C`  |
+
+![Paleta](./PaletaColor.png)
+
+
+
+
+
+
