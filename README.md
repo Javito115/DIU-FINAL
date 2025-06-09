@@ -120,3 +120,10 @@ El rediseño de la web de Valencia Film Office busca resolver las barreras detec
 La nueva estructura se organiza diferenciando claramente dos perfiles de usuario: profesionales del audiovisual y usuarios interesados en el turismo cinematográfico.
 
 ![SiteMap](./SiteMap.jpg)
+
+
+## WireFrames
+
+### Wireframe 1 – Home Page (Acceso dual)
+
+### Wireframe 2 – Página de Ruta Cinematográfica
