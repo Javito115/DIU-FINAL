@@ -52,3 +52,7 @@ Creo que he alcanzado un nivel intermedio. Me siento cómodo encontrando errores
 Además, he aprendido a valorar la importancia del proceso, no solo del resultado. Muchas veces queremos ver productos finales, pero este curso me ha enseñado que cada decisión cuenta, desde la elección del color hasta el orden de una lista. Diseñar con intención es lo que marca la diferencia entre una interfaz funcional y una interfaz que se siente correcta.
 
 En resumen, esta asignatura me ha enseñado que diseñar pensando en el usuario no es algo teórico, sino una forma real de trabajar. Usar buenas prácticas y mirar más allá de lo visual hace que los productos sean más fáciles de usar, más agradables y más justos. Y eso, al final, es lo que debería importar en cualquier diseño.
+
+
+# Parte 2 – Caso de Estudio. Web Valencia Film Office
+
