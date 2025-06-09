@@ -165,7 +165,13 @@ Se propone una extensión digital —ya sea integrada en la web o como app indep
 ### ScopeCanvas
 ![ScopeCanvas](./ScopeCanvas.PNG)
 
+## Conclusiones Finales
 
+Este caso de estudio me ha servido para aplicar muchas de las herramientas y enfoques que hemos visto en clase, pero esta vez sobre un caso real. He usado el análisis de accesibilidad con WAVE, definición de una persona y escenario de uso, creación de un sitemap nuevo, wireframes, y una propuesta de valor clara con su ScopeCanvas. Todo esto me ha ayudado a identificar problemas reales y plantear soluciones bien justificadas, alejándome del “me gusta/no me gusta” y centrándome en mejorar la experiencia del usuario.
+
+Lo que me ha faltado —y que sin duda hubiera hecho el trabajo más completo— es poder probar la propuesta con usuarios reales: hacer algún test de usabilidad, entrevistas o al menos recoger opiniones. También habría sido interesante montar un prototipo navegable con Figma para ver cómo fluye la navegación entre pantallas.
+
+Aun así, me siento mucho más preparado para enfrentar un proyecto real. He entendido que no se trata de aplicar todas las técnicas por defecto, sino de saber elegir las que más aportan valor según el contexto y el tiempo disponible. Me quedo con la idea de que el UX es más que diseño bonito: es estructurar, simplificar y hacer que la experiencia del usuario tenga sentido desde el primer clic.
 
 
 
