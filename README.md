@@ -125,5 +125,8 @@ La nueva estructura se organiza diferenciando claramente dos perfiles de usuario
 ## WireFrames
 
 ### Wireframe 1 – Home Page (Acceso dual)
+![HomePage](./HomePage.png)
 
 ### Wireframe 2 – Página de Ruta Cinematográfica
+![PaginaRuta](./PaginaRuta.png)
+
