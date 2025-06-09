@@ -83,3 +83,24 @@ Propuesta de rediseño básico en forma de wireframes responsive, acompañados d
 
 ### ScopeCanvas (propuesta de valor)
 Se diseña un ScopeCanvas orientado a una futura app/web para fomentar el turismo cinematográfico en Valencia, diferenciando claramente entre usuarios profesionales (productoras) y usuarios culturales (turistas).
+
+## Análisis competitivo
+
+Para detectar oportunidades de mejora y evaluar la adecuación del diseño a las necesidades de los usuarios, se ha realizado una comparativa entre dos webs institucionales orientadas a la promoción de rodajes: Valencia Film Office y Granada Film Commission.
+
+Ambas páginas ofrecen información para productoras interesadas en rodar en sus respectivas ciudades, pero presentan diferencias significativas en cuanto a diseño, accesibilidad, estructura de contenidos y adaptación al turismo cinematográfico.
+
+### Comparativa funcional
+
+| Criterio                            | Valencia Film Office                          | Granada Film Commission                        |
+|-------------------------------------|-----------------------------------------------|------------------------------------------------|
+| **Idiomas disponibles**             | ES / EN                                       | ES / EN                                      |
+| **Información para productoras**    | Completa y bien estructurada                  | Completa                                     |
+| **Catálogo de localizaciones**      | Navegable por mapa y tipo                     | PDF por categorías                           |
+| **Información para turistas**       | Muy escasa                                    | Rutas, localizaciones, contacto              |
+| **Noticias o actualidad**           | No disponibles                                | Blog de noticias                             |
+| **Diseño responsive**               | Correcto                                      | Problemas de escalado                        |
+| **Accesibilidad (WAVE)**            | 10 errores, 22 advertencias                   | 9 errores, 17 advertencias                   |
+| **Jerarquía visual**                | Muy institucional, poco emocional             | Más visual y segmentada                      |
+| **Navegación**                      | Clara para productoras                        | Confusa para nuevos visitantes               |
+| **Llamadas a la acción (CTA)**      | Escasas y poco visibles                       | Claras (“Solicita tu rodaje”, “Contáctanos”)|
