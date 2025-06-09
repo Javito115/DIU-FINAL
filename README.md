@@ -101,10 +101,13 @@ Ambas páginas ofrecen información para productoras interesadas en rodar en sus
 | **Noticias o actualidad**           | No disponibles                                | Blog de noticias                             |
 | **Diseño responsive**               | Correcto                                      | Problemas de escalado                        |
 | **Accesibilidad (WAVE)**            | 10 errores, 22 advertencias                   | 9 errores, 17 advertencias                   |
+| **Jerarquía visual**                | Muy institucional, poco emocional             | Más visual y segmentada                      |
+| **Navegación**                      | Clara para productoras                        | Confusa para nuevos visitantes               |
+| **Llamadas a la acción (CTA)**      | Escasas y poco visibles                       | Claras (“Solicita tu rodaje”, “Contáctanos”)|
+
 
 ## Persona
 
 ![Clara persona](./PersonaClara.PNG)
-| **Jerarquía visual**                | Muy institucional, poco emocional             | Más visual y segmentada                      |
-| **Navegación**                      | Clara para productoras                        | Confusa para nuevos visitantes               |
-| **Llamadas a la acción (CTA)**      | Escasas y poco visibles                       | Claras (“Solicita tu rodaje”, “Contáctanos”)|
+
+
