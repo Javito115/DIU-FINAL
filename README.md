@@ -1,117 +1,54 @@
 # DIU-FINAL
 
 # Parte I – Mi experiencia UX
-
-Durante la asignatura de **Diseño de Interfaces de Usuario** he podido desarrollar una mirada más crítica hacia la interacción entre personas y ordenadores. Diseñar no se trata solo de crear pantallas bonitas, sino de planear experiencias que realmente ayuden al usuario. Gracias a distintas tareas centradas en analizar, diseñar y evaluar interfaces, he aprendido a usar herramientas y métodos UX que me han ayudado a tomar decisiones más acertadas y a encontrar errores con razones claras. Esta parte del trabajo recoge una **reflexión** sobre lo que hicimos y lo que aportó cada actividad desde la mirada del diseño centrado en el usuario.
+Durante la asignatura de Diseño de Interfaces de Usuario he podido desarrollar una mirada más crítica hacia la interacción entre personas y ordenadores. Diseñar no se trata solo de crear pantallas bonitas, sino de planear experiencias que realmente ayuden al usuario. Gracias a distintas tareas centradas en analizar, diseñar y evaluar interfaces, he aprendido a usar herramientas y métodos UX que me han ayudado a tomar decisiones más acertadas y a encontrar errores con razones claras. Esta parte del trabajo recoge una reflexión sobre lo que hicimos y lo que aportó cada actividad desde la mirada del diseño centrado en el usuario.
 
 ## Evaluación heurística: Checklist de diseño web
+Una de las primeras tareas fue aplicar una checklist de diseño web al portal "La Ampliadora" para ver cómo funcionaba su usabilidad. Esta herramienta fue muy útil para hacer el análisis de forma ordenada, mirando cosas como el aspecto visual, la navegación, los textos y cómo orientarse dentro de la página. Aunque antes de la asignatura ya podía notar algunos fallos como usuario, esta actividad me ayudó a entender la importancia de tener herramientas que nos ayuden a evaluar sin basarnos solo en lo que sentimos.
 
-Una de las primeras tareas fue aplicar una **checklist de diseño web** al portal *La Ampliadora* para ver cómo funcionaba su usabilidad. Esta herramienta fue muy útil para hacer el análisis de forma ordenada, mirando cosas como el **aspecto visual**, la **navegación**, los **textos** y cómo orientarse dentro de la página.
+Usar esta checklist nos permitió encontrar errores que parecen pequeños, como que no haya breadcrumbs o que falten títulos en las páginas, pero que en realidad dificultan que el usuario sepa dónde está o cómo volver atrás. Al comparar con otra web parecida, como Filmosofía, vimos que muchos sitios del mismo tipo comparten esos problemas, y que una buena estructura de navegación mejora mucho la experiencia del usuario, evitando que se frustre o se pierda.
 
-Aunque antes de la asignatura ya podía notar algunos fallos como usuario, esta actividad me ayudó a entender la importancia de tener herramientas que nos ayuden a evaluar sin basarnos solo en lo que sentimos.
+Desde un punto de vista metodológico, esta tarea fue un buen ejemplo de evaluación experta usando reglas generales (heurísticas). Es una técnica que recomiendan usar cuando no hay mucho tiempo ni recursos, según el artículo “When to Use Which UX Research Methods” de NNGroup. Me pareció una forma rápida pero efectiva de encontrar problemas importantes, incluso sin contar con la participación de usuarios reales.
 
-Entre los errores detectados estaban:
+## Accesibilidad y diseño inclusivo: Evaluación del portal del Ayuntamiento de Huétor Vega
+La actividad sobre accesibilidad me ayudó a ver, de forma práctica, los obstáculos que enfrentan personas con discapacidades cuando navegan por una web. En este caso, analizamos la página del Ayuntamiento de Huétor Vega usando herramientas como WAVE, Accessibility Insights y simuladores como Funkify. Gracias a esto, comprendí una nueva perspectiva: la de quienes encuentran barreras digitales por motivos visuales, motrices o cognitivos.
 
-- Ausencia de breadcrumbs
-- Falta de títulos en algunas páginas
-- Navegación poco intuitiva
+Vimos problemas como enlaces sin descripción, falta de encabezados y textos con poco contraste. Aunque el sitio parecía funcionar bien para la mayoría, notamos que muchas personas quedarían fuera de una experiencia completa. Esto demuestra que algo puede estar “bien” a simple vista, pero seguir siendo excluyente.
 
-Al compararla con otra web parecida, como *Filmosofía*, observamos que estos problemas eran comunes en sitios del mismo tipo. Gracias a esta tarea entendí que **una buena estructura de navegación** mejora mucho la experiencia, evita frustraciones y ayuda a orientarse mejor.
+Además, me impactó especialmente el uso de simuladores como Funkify, que permiten experimentar cómo navega una persona con daltonismo o con temblores en las manos. Por ejemplo, cuando simulé una dislexia ligera, me resultó difícil mantener la atención en una lista de enlaces sin una jerarquía visual clara. Esto me hizo darme cuenta de que el diseño que no tiene en cuenta la diversidad puede convertirse en una barrera más que en una solución.
 
-Desde un punto de vista metodológico, esta actividad fue un buen ejemplo de **evaluación heurística experta**, útil cuando se tiene poco tiempo o recursos. Fue una forma rápida y efectiva de encontrar errores sin necesidad de probar con usuarios reales.
+Aprendí que seguir las reglas WCAG no es solo cumplir la ley, sino tener una actitud responsable como diseñadores. También entendí que la accesibilidad no se puede dejar para el final, como un extra, sino que hay que incluirla desde el principio del diseño. Usar revisiones automáticas junto a simulaciones de usuario me pareció un método muy completo, fácil de aplicar y muy útil, sobre todo en proyectos donde no se puede contactar con usuarios con discapacidad.
 
-## Accesibilidad y diseño inclusivo: Portal del Ayuntamiento de Huétor Vega
+Esta tarea también me ayudó a mejorar mi propia forma de diseñar. Ahora suelo revisar siempre si hay buen contraste, si los botones se entienden bien y si la estructura es clara. Creo que ese cambio de mentalidad es uno de los más importantes que me llevo de la asignatura.
 
-La actividad sobre accesibilidad me ayudó a ver de forma práctica los **obstáculos que enfrentan las personas con discapacidad** al navegar por la web. Analizamos el portal del Ayuntamiento de Huétor Vega usando herramientas como:
+## Microinteracciones y diseño emocional: Animación onboarding
+Otra actividad muy útil fue crear una animación de pantalla de carga con Figma. Con mi compañero hicimos una animación tipo onboarding que simulaba una barra de carga con pequeños movimientos. Usamos transiciones como Smart Animate y Dissolve. La idea era que, mientras cargaba una pantalla de login, el usuario tuviera una sensación más agradable y no solo esperara sin saber qué pasaba.
 
-- WAVE
-- Accessibility Insights
-- Simuladores: Funkify y Web Disability Simulator
+Al principio parecía una tarea menor, pero luego entendí que estas animaciones hacen que la espera parezca más corta. Tal como se menciona en el libro de Aarron Walter, el diseño emocional hace que los productos parezcan más humanos. Las microinteracciones dan personalidad, ayudan a comunicar mejor y hacen que la interfaz sea más clara sin necesidad de explicar tanto.
 
-Detectamos problemas como:
+También aprendí a usar Figma para hacer prototipos con animaciones. Esto es muy útil cuando trabajas en grupo, porque ayuda a mostrar mejor cómo debería funcionar algo. Usar animaciones con sentido (y no solo por hacer bonito) mejora mucho la experiencia. Gracias a esta tarea, empecé a fijarme más en detalles como el tiempo de animación, los retardos o la forma en que aparecen los elementos.
 
-- Enlaces sin texto alternativo
-- Encabezados desestructurados
-- Bajo contraste visual
-- Botones pequeños en móvil
+Las microinteracciones son además fundamentales para mejorar la percepción de control del usuario. Por ejemplo, si una interfaz responde con un pequeño movimiento o cambio de color al hacer clic, el usuario siente que su acción fue reconocida, aunque aún no haya respuesta del sistema. Este tipo de respuestas mejora la confianza en el producto y reduce la ansiedad del usuario ante la incertidumbre.
 
-Aunque el sitio funcionaba para el usuario promedio, era **excluyente para perfiles con necesidades específicas**.
+## Trabajo en equipo y colaboración en diseño UX
+Un aspecto que no estaba recogido directamente en las actividades, pero que considero clave en mi experiencia, fue el trabajo colaborativo. En varias de las tareas, especialmente la animación y la checklist, tuve que trabajar en pareja o en grupo. Esto me permitió entender que el diseño UX no es una tarea individual, sino que se construye a partir del diálogo entre perfiles distintos.
 
-Un momento clave fue usar los simuladores. Por ejemplo, al activar el filtro de dislexia ligera, me costó mucho seguir una lista de enlaces sin jerarquía visual clara. Eso me hizo comprender la importancia de **diseñar para la diversidad desde el principio**, no como algo secundario.
+En el proceso aprendí a ceder, a defender ideas con argumentos y también a integrar propuestas ajenas. En el caso de la checklist, por ejemplo, yo pensaba que algunos errores eran poco importantes, pero mi compañera argumentó que ciertos fallos en el wayfinding podían confundir incluso a usuarios expertos. Revisamos juntos el análisis, y al hacerlo en equipo, nuestra conclusión fue mucho más completa y balanceada.
 
-Desde entonces, reviso:
-
-- El contraste visual
-- La semántica de botones
-- La estructura HTML
-
-Incluso en proyectos personales. Esta tarea cambió mi forma de pensar en el diseño y me dio una **mirada más inclusiva**.
-
-## Microinteracciones y diseño emocional: Animación Onboarding
-
-Otra actividad muy útil fue diseñar una **pantalla de carga animada** con Figma. Con mi compañero creamos una animación tipo onboarding con:
-
-- Barra de progreso simulada
-- Microinteracciones con *Smart Animate* y *Dissolve*
-
-El objetivo era mejorar la **percepción del tiempo de espera** del usuario, haciéndolo más ameno y funcional. Esta animación, aunque parezca simple, ayudó a:
-
-- Transmitir emociones
-- Humanizar el producto
-- Guiar al usuario sin texto
-
-Aprendí también a prototipar con Figma usando componentes animados, lo cual mejora la **comunicación dentro del equipo de diseño y desarrollo**.
-
-Las microinteracciones:
-
-- Reafirman acciones del usuario (ej. cambio de color tras clic)
-- Refuerzan jerarquías visuales
-- Indican progreso sin sobrecargar la interfaz
-
-Este enfoque mejoró mi atención al detalle: *timing*, *delays*, curvas de animación… todos esos matices suman valor a la experiencia final.
-
-## Trabajo en equipo y colaboración en UX
-
-Aunque muchas tareas se centraban en técnicas específicas, un aprendizaje transversal fue el **trabajo en equipo**. En actividades como la animación y la checklist, trabajé en pareja o grupo, y entendí que:
-
-- El diseño UX **no es un trabajo individual**.
-- Discutir, consensuar y justificar ideas mejora los resultados.
-- Dividir tareas según fortalezas acelera y equilibra el proceso.
-
-Por ejemplo, en la checklist, inicialmente pensé que ciertos errores eran menores, pero mi compañera me hizo ver cómo el wayfinding afecta incluso a usuarios expertos. El análisis final fue más completo porque **lo construimos colaborativamente**.
+La colaboración también me ayudó a organizarme mejor, dividir tareas según fortalezas y respetar los plazos. Creo que estas habilidades son esenciales para cualquier proyecto de diseño real, donde rara vez se trabaja en solitario. La comunicación, tanto verbal como visual, fue clave para evitar malentendidos, especialmente cuando discutíamos ideas con bocetos o prototipos.
 
 ## Actividades no realizadas pero analizadas
+Aunque no llegué a hacer algunas actividades, he leído sus descripciones y creo que son igual de valiosas. Una de ellas es la actividad de etnografía, donde se observan a personas usando un producto en su entorno natural. Este método me parece muy útil porque permite descubrir problemas que no se verían en entrevistas o encuestas. Al observar sin intervenir, se pueden ver patrones reales de comportamiento que ayudan a mejorar el diseño.
 
-Aunque no realicé algunas tareas, he analizado su valor:
+También vi la actividad de Moodboard, que sirve para elegir colores, tipografías y estilos que den una idea clara de cómo será el diseño. Aunque no lo hice, entendí que esta fase es clave para marcar una identidad visual y asegurar que el producto transmita la emoción que se quiere. Además, es una forma de que todos en el equipo se pongan de acuerdo sobre cómo debe sentirse la interfaz.
 
-### Etnografía
-
-- Observar a personas reales en su entorno usando un producto.
-- Detectar patrones de uso inesperados o comportamientos naturales.
-- Descubrir conflictos que no aparecen en encuestas ni entrevistas.
-
-### Moodboard
-
-- Definir una **identidad visual coherente**.
-- Elegir colores, estilos, tipografías y sensaciones.
-- Servir como punto de partida emocional y estético antes del diseño.
-
-Ambas técnicas me hicieron entender que el diseño UX **no es lineal ni solo funcional**. Observar y proyectar son fases tan importantes como evaluar y prototipar.
+Estas actividades me hicieron ver que el diseño UX no es solo funcionalidad. También importa lo que siente el usuario y cómo se comporta en la vida real. Observar el entorno (como en la etnografía) y cuidar el aspecto visual (como con el moodboard) son pasos importantes que tendré en cuenta en próximos proyectos.
 
 ## Conclusiones y reflexión personal
+Gracias a estas tareas he podido ver distintas partes del diseño UX: desde revisar errores (como en la checklist), hasta pensar en personas con diferentes capacidades (accesibilidad), y finalmente en cómo se siente el usuario (emociones y animación). Cada parte me enseñó algo distinto, y todas juntas me han cambiado la forma de pensar en las interfaces. Ahora no veo una pantalla solo como algo bonito, sino como un conjunto de elementos que deben comunicar, guiar y emocionar.
 
-Gracias a todas estas actividades, he vivido distintas capas del diseño UX:
+Creo que he alcanzado un nivel intermedio. Me siento cómodo encontrando errores, mejorando accesibilidad y creando animaciones útiles. Aun así, sé que me falta práctica en actividades con usuarios reales, como entrevistas o pruebas. En el futuro me gustaría aprender más sobre mapas de empatía o journey maps, porque ayudan a entender mejor lo que siente el usuario.
 
-- **Evaluación heurística**: detectar errores básicos y estructurales.
-- **Diseño inclusivo**: pensar en todo tipo de usuarios desde el principio.
-- **Diseño emocional**: cuidar los detalles que humanizan la interfaz.
-- **Colaboración**: construir mejores soluciones en equipo.
-- **Análisis complementario**: valorar lo que no se llegó a hacer, pero sí se comprendió.
+Además, he aprendido a valorar la importancia del proceso, no solo del resultado. Muchas veces queremos ver productos finales, pero este curso me ha enseñado que cada decisión cuenta, desde la elección del color hasta el orden de una lista. Diseñar con intención es lo que marca la diferencia entre una interfaz funcional y una interfaz que se siente correcta.
 
-Considero que he alcanzado un **nivel intermedio** en UX. Me siento cómodo detectando fallos, proponiendo mejoras de accesibilidad y pensando en interacciones más fluidas y cuidadas. Pero sé que aún me falta trabajar más con **usuarios reales**, mediante entrevistas, test de usabilidad o mapeo de experiencias.
-
-En resumen:
-
-> El diseño centrado en el usuario **no es una teoría**, es una forma real de trabajar. Si aplicamos métodos con criterio, el resultado no solo es usable, sino también accesible, emocional y justo.
-
-Y eso, al final, es lo que devería importar en cualquier diseño.
+En resumen, esta asignatura me ha enseñado que diseñar pensando en el usuario no es algo teórico, sino una forma real de trabajar. Usar buenas prácticas y mirar más allá de lo visual hace que los productos sean más fáciles de usar, más agradables y más justos. Y eso, al final, es lo que debería importar en cualquier diseño.
