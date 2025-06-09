@@ -56,3 +56,30 @@ En resumen, esta asignatura me ha enseñado que diseñar pensando en el usuario 
 
 # Parte 2 – Caso de Estudio. Web Valencia Film Office
 
+## Introducción al caso de estudio
+
+Este estudio analiza la web de Valencia Film Office (valenciafilmoffice.org), una plataforma que ofrece asistencia a productoras audiovisuales interesadas en rodar en Valencia. Además de su función logística, la web representa una oportunidad para impulsar el turismo cinematográfico, aprovechando los rodajes como valor cultural y económico para la ciudad.
+
+El objetivo es evaluar la web desde una perspectiva experta en UX y usabilidad, identificando sus fortalezas y carencias mediante herramientas como las heurísticas de Nielsen y criterios de accesibilidad (WCAG). Se realizará una comparativa con Granada Film Commission, se propondrá una mejora estructural (sitemap, wireframes y diseño visual) y se desarrollará una propuesta de valor tipo ScopeCanvas enfocada al turismo local basado en el cine.
+
+## Herramientas y metodología seleccionada
+
+Dado el alcance limitado de tiempo y recursos, se ha optado por un enfoque profesional y eficiente, seleccionando solo aquellas herramientas y técnicas que permiten un análisis sólido y aplicable de la web de Valencia Film Office. Las técnicas escogidas se basan en su relevancia para detectar problemas de usabilidad, accesibilidad y experiencia de usuario en sitios institucionales.
+
+### Revisión de accesibilidad (WCAG + WAVE)
+Uso de la herramienta WAVE para comprobar el cumplimiento de las Pautas de Accesibilidad para el Contenido Web (WCAG 2.1), clave en sitios institucionales públicos. Se evalúan contrastes, etiquetas ALT, navegación por teclado, entre otros.
+
+### Test de diseño responsive
+Verificación del comportamiento de la web en dispositivos móviles y diferentes resoluciones, empleando las DevTools de Chrome. Esto permite detectar problemas visuales y de usabilidad en navegación adaptativa.
+
+### Evaluación de arquitectura de la información
+Se realiza un análisis del flujo de navegación y estructura de contenidos, valorando si la organización responde a las expectativas de usuarios potenciales. Se propondrá un nuevo sitemap si se detectan problemas de jerarquía o comprensión.
+
+### Creación de persona y escenario de uso
+Para ilustrar cómo un usuario real podría interactuar con la web, se define una persona basada en un perfil representativo (turista cinéfilo o estudiante de audiovisuales) y un escenario de uso realista. Esta técnica permite conectar problemas UX con experiencias concretas.
+
+### Wireframes + Guidelines de diseño
+Propuesta de rediseño básico en forma de wireframes responsive, acompañados de una guía de estilo visual (colores, tipografía, jerarquía). El objetivo es presentar soluciones claras a los problemas detectados sin entrar aún en desarrollo real.
+
+### ScopeCanvas (propuesta de valor)
+Se diseña un ScopeCanvas orientado a una futura app/web para fomentar el turismo cinematográfico en Valencia, diferenciando claramente entre usuarios profesionales (productoras) y usuarios culturales (turistas).
