@@ -111,3 +111,12 @@ Ambas páginas ofrecen información para productoras interesadas en rodar en sus
 ![Clara persona](./PersonaClara.PNG)
 
 
+## Rediseño UX
+
+El rediseño de la web de Valencia Film Office busca resolver las barreras detectadas en el análisis anterior, especialmente la falta de accesibilidad, la escasa segmentación de contenidos y la inexistente orientación al turismo cinematográfico.
+
+### Nuevo SiteMap
+
+La nueva estructura se organiza diferenciando claramente dos perfiles de usuario: profesionales del audiovisual y usuarios interesados en el turismo cinematográfico.
+
+![SiteMap](./SiteMap.jpg)
